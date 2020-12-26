@@ -92,15 +92,15 @@ jalan("\033[1;96m•◈• ◆ ▬▬▬▬▬▬▬▬▬▬ SahiL ▬▬▬▬
 jalan("\033[1;96m•◈• ┣▇▇▇═─ ─╔╗ ╔══╗ ╔═╦═╗ ╔══╗ ╔╗─ ╔══╗ ")
 jalan("\033[1;97m•◈• ┣▇▇▇═── ║║ ║╔╗║ ║║║║║ ║╔╗║ ║║─ ╚║║╝ ")
 jalan("\033[1;96m•◈• ┣▇▇▇═─ ╔╣║ ║╠╣║ ║║║║║ ║╠╣║ ║╚╗ ╔║║╗ ")
-jalan("\033[1;96m•◈• ╚═╝ ╚╝╚╝ ╚╩═╩╝ ╚╝╚╝ ╚═╝ ╚══╝ ")
-jalan("\033[1;96m•◈• ╚═╝░░░░░╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░ ")
+jalan("\033[1;96m•◈• ┣▇▇▇═─ ╚═╝ ╚╝╚╝ ╚╩═╩╝ ╚╝╚╝ ╚═╝ ╚══╝ ")
+jalan("\033[1;96m•◈• ◆ ▬▬▬▬▬▬▬▬▬▬ SahiL ▬▬▬▬▬▬▬▬▬▬ ◆ ")
  
 jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
 
-jalan("   \033[1;93m Welcome to Af2  Creations ")
+jalan("   \033[1;93m Welcome to KHALID  Creations ")
 
-jalan("\033[1;97m•◈•──────────•◈•\033[1;96mTheAfgVirus\033[1;96m•◈•──────────•◈•")
+jalan("\033[1;97m•◈•──────────•◈•\033[1;96mJAMALIgVirus\033[1;96m•◈•──────────•◈•")
 
 CorrectUsername = "af2"
 CorrectPassword = "af2"
